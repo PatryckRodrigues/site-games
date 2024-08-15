@@ -7,7 +7,7 @@
 body{
     width: 100%;
     height: 100vh;
-    background-color: #000000;; 
+    background-color: #000000;
 }
 header{
     display: flex;
@@ -21,9 +21,9 @@ header{
     flex-wrap: wrap;
 }
 .menu{
-    flex-wrap: wrap;
     list-style: none;
     display: flex;
+    flex-wrap: wrap;
     margin-right: 100px;
 }
 .menu li a{
@@ -40,6 +40,7 @@ header{
     background-color: #615f5f;
 }
 .logo{
+
     img{
         width: 255px;
         height: 149px;
@@ -113,7 +114,7 @@ article a{
     display: flex;
     flex-direction: column;
 }
-.coluna1 a{}
+
 .coluna2{
     display: flex;
     flex-direction: column;
